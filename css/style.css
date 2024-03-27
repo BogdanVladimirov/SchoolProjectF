@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body {
+    font-family: 'Russo One', sans-serif;
+    color: rgb(119, 0, 255);
+    background-image: url(../img/BackgroundImg1.jpg)
+}
+
+.headOfPage {
+    text-align: center;
+    font-size: 50px;
+}
+
+.bodyOfPage {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.purposes {
+    font-size: 20px;
+}
+
+img {
+    width: 1280px;
+    height: 720px;
+}
+
+.description {
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+a {
+    color: rgb(119, 0, 255);
+}
