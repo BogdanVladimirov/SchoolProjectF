@@ -12,12 +12,12 @@ body {
 .headOfPage {
     padding-top: 150px;
     text-align: center;
-    font-size: 50px;
+    font-size: 200%;
     padding-bottom: 300px;
 }
 
 .bodyOfPage {
-    text-align: center;
+    text-align: justify;
     font-size: 30px;
 }
 
