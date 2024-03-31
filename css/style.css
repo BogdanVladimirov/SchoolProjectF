@@ -7,22 +7,19 @@ body {
     background-image: url(../img/BackgroundImg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 40%;
 }
 
 .headOfPage {
-    padding-top: 150px;
+    padding-top: 15%;
     text-align: center;
     font-size: 200%;
-    padding-bottom: 300px;
+    padding-bottom: 20%;
 }
 
 .bodyOfPage {
     text-align: justify;
     font-size: 30px;
-}
-
-.purposes {
-    font-size: 20px;
 }
 
 img {
@@ -46,6 +43,12 @@ img {
     max-width: 800px;
     margin: auto;
 }
+
+.purposes {
+    font-size: 20px;
+    text-align: center;
+}
+
 
 a {
     color: rgb(119, 0, 255);
