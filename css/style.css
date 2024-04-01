@@ -9,6 +9,8 @@ body {
     background-size: cover;
     background-position: 40%;
     margin: 0 auto;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .headOfPage {
@@ -54,4 +56,3 @@ img {
 a {
     color: rgb(119, 0, 255);
 }
-
